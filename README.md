@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YujinBong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YujinBong&fontSize=90 color="white")
 
 
 <h3 align="center" > Tech Stack   :muscle:</h3>
